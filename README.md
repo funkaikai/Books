@@ -15,14 +15,14 @@
 	* 分布式系统概念与设计 原书第5版.pdf
 	* 分布式原理介绍 .pdf
 * 数据结构与算法以及数据存储相关
-	*《SQL查询的艺术》.(张权,郭天娇).[PDF]@jb51.net.pdf《SQL查询的艺术》.(张权,郭天娇).[PDF]@jb51.net.pdf
+	*《SQL查询的艺术》.(张权,郭天娇).pdf
 	* 深入理解MySQL核心技术.pdf深入理解MySQL核心技术.pdf
 	* 数据库系统实现（第二版）.pdf数据库系统实现（第二版）.pdf
 	* 数学之美.PDF数学之美.PDF
 	* SQL查询的艺术.pdfSQL查询的艺术.pdf
 	* 计算机程序设计艺术（第二卷）高清中文版.pdf计算机程序设计艺术（第二卷）高清中文版.pdf
 	* 数据结构与算法分析C++描述.pdf数据结构与算法分析C++描述.pdf
-	* 高级数据库技术_Database System Implementation（中文版）.pdf高级数据库技术_Database System Implementation（中文版）.pdf
+	* 高级数据库技术_Database System Implementation（中文版）.pdf
 	* MySQL数据库设计规范1.0.pdfMySQL数据库设计规范1.0.pdf
 	* 计算机程序设计艺术（第三卷）高清中文版.pdf计算机程序设计艺术（第三卷）高清中文版.pdf
 	* 数据库系统概念 中文第6版.pdf数据库系统概念 中文第6版.pdf
@@ -35,15 +35,22 @@
 	* 编程珠玑+第2版修订版.pdf编程珠玑+第2版修订版.pdf
 	* 数据结构与算法分析：C语言描述（原书第2版）.pdf数据结构与算法分析：C语言描述（原书第2版）.pdf
 	* 计算机程序设计艺术 第四卷.pdf计算机程序设计艺术 第四卷.pdf
-	* 程序员代码面试指南 IT名企算法与数据结构题目最优解（左程云著） .pdf程序员代码面试指南 IT名企算法与数据结构题目最优解（左程云著） .pdf
-	* 【高清电子版】MySQL技术内幕.第五版.pdf【高清电子版】MySQL技术内幕.第五版.pdf
+	* 程序员代码面试指南 IT名企算法与数据结构题目最优解（左程云著）.pdf
+	* 【高清电子版】MySQL技术内幕.第五版
 	* SQL必知必会-中文-第4版.pdfSQL必知必会-中文-第4版.pdf
 	* 编程之美—微软技术面试心得.pdf编程之美—微软技术面试心得.pdf
-	* 计算机程序设计艺术（第一卷）高清中文版.pdf计算机程序设计艺术（第一卷）高清中文版.pdf
+	* 计算机程序设计艺术（第一卷）高清中文版.pdf
 * Java
+	* Tomcat相关
+		* 深入剖析Tomcat（中文版）
+		* Tomcat与Java Web开发技术详解(第2版)
+	* Maven
+		* Maven实战（高清完整带书签）.pdfMaven实战（高清完整带书签）.pdf
+	* Spring
+		* Spring实战（第4版）.pdfSpring实战（第4版）.pdf
 	* JAVA并发编程实战.pdfJAVA并发编程实战.pdf
 	* Java多线程核心编程技术.pdfJava多线程核心编程技术.pdf
-	* _深入理解Java虚拟机_JVM高级特性与最佳实践 第2版_220_.pdf_深入理解Java虚拟机_JVM高级特性与最佳实践 第2版_220_.pdf
+	* 深入理解Java虚拟机_JVM高级特性与最佳实践 第2版
 	* Java核心技术 卷2 高级特性 原书第10版.pdfJava核心技术 卷2 高级特性 原书第10版.pdf
 	* 韩顺平_循序渐进学Java零基础【完整笔记】.pdf韩顺平_循序渐进学Java零基础【完整笔记】.pdf
 	* Java虚拟机规范-JavaSE8版.pdfJava虚拟机规范-JavaSE8版.pdf
@@ -54,7 +61,7 @@
 	* 疯狂Java讲义第4版.pdf疯狂Java讲义第4版.pdf
 	* Java并发编程的艺术.pdfJava并发编程的艺术.pdf
 * 监控相关
-	* SRE  Google运维解密.pdfSRE  Google运维解密.pdf
+	* SRE  Google运维解密.pdf
 * 编译原理相关
 	* 编译原理.pdf编译原理.pdf
 * 计算机网络
@@ -92,14 +99,9 @@
 		* 算法帝国.pdf算法帝国.pdf
 		* 算法导论第2版.pdf算法导论第2版.pdf
 		* 算法 第4版-谢路云 译.pdf算法 第4版-谢路云 译.pdf
-* Java
-	* Tomcat相关
-		* 深入剖析Tomcat（中文版）@www.java1234.com.pdf深入剖析Tomcat（中文版）@www.java1234.com.pdf
-		* Tomcat与Java Web开发技术详解(第2版)@www.java1234.com.pdfTomcat与Java Web开发技术详解(第2版)@www.java1234.com.pdf
-	* Maven
-		* Maven实战（高清完整带书签）.pdfMaven实战（高清完整带书签）.pdf
-	* Spring
-		* Spring实战（第4版）.pdfSpring实战（第4版）.pdf
+
+
+
 
 
 
